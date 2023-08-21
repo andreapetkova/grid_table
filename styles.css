@@ -28,7 +28,7 @@ body {
   padding: 1rem;
   padding-top: 0;
   display: grid;
-  grid-template-columns: 0.5fr 5fr 1fr 1fr 1fr;
+  grid-template-columns: 0.5fr 5fr 0.5fr 0.5fr 0.5fr;
   text-align: center;
   line-height: 2rem;
 }
